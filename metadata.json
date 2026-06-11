@@ -1,0 +1,6 @@
+{
+  "name": "Niraipulam Agroproducts Tracker",
+  "description": "Daily tracking dashboard for fresh cut veggie and fruit operations, visualizing volume, revenue, unfilled order loss, and balance payments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
